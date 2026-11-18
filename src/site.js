@@ -36,7 +36,7 @@ add('', {
   body: (R) => {
     const n = nextA;
     const wl = winterLine();
-    const up = homeUp(8);
+    const up = homeUp(8, nextA);
     const res = homeRes(8);
     return `<section class="vo-hero"><div class="wrap vo-hero-in">
   <h1 class="vo-h1">FC Výčapy-Opatovce</h1>

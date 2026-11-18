@@ -173,8 +173,8 @@ const homePick = (list, n) => {
   const rest = cand.filter((m) => !a.includes(m)).slice(0, n - a.length);
   return cand.filter((m) => a.includes(m) || rest.includes(m)); // áčko má prednosť, poradie zoznamu ostáva
 };
-const homeUp = (n = 5) => homePick(upcoming, n);
-const homeRes = (n = 5) => homePick(results.filter((x) => x.score), n);
+const homeUp = (n = 5, skip = []) => homePick(upcoming.filter((m) => ![].concat(skip).includes(m)), n); // skip: zápas, ktorý už úvod zvýrazňuje
+const homeRes = (n = 5, skip = []) => homePick(results.filter((x) => x.score && ![].concat(skip).includes(x)), n);
 const MON3 = ['jan', 'feb', 'mar', 'apr', 'máj', 'jún', 'júl', 'aug', 'sep', 'okt', 'nov', 'dec'];
 
 // ---- kostra stránky ------------------------------------------------------------------------------
@@ -520,7 +520,7 @@ add('', {
   body: (R) => {
     const n = nextA;
     const wl = winterLine();
-    const up = homeUp(8);
+    const up = homeUp(8, nextA);
     const res = homeRes(8);
     return `<section class="vo-hero"><div class="wrap vo-hero-in">
   <h1 class="vo-h1">FC Výčapy-Opatovce</h1>
