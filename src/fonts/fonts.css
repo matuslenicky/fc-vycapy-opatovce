@@ -1,0 +1,5 @@
+/* Bodoni Moda, Schibsted Grotesk (SIL OFL 1.1), orezané na latinku strednej Európy */
+@font-face{font-family:'Bodoni Moda';font-style:italic;font-weight:400;font-display:swap;src:url(bodoni-moda-400i.woff) format("woff")}
+@font-face{font-family:'Bodoni Moda';font-style:normal;font-weight:700;font-display:swap;src:url(bodoni-moda-700.woff) format("woff")}
+@font-face{font-family:'Schibsted Grotesk';font-style:normal;font-weight:400;font-display:swap;src:url(schibsted-grotesk-400.woff) format("woff")}
+@font-face{font-family:'Schibsted Grotesk';font-style:normal;font-weight:600;font-display:swap;src:url(schibsted-grotesk-600.woff) format("woff")}

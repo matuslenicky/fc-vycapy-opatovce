@@ -1,0 +1,102 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "FC Výčapy-Opatovce",
+  "kratky": "Výčapy-Opatovce",
+  "pravnyNazov": "Združenie FC Výčapy-Opatovce",
+  "_pravnyNazov": "Sportnet a web obce (Šport): Združenie FC Výčapy – Opatovce, právna forma združenie",
+  "mesto": "Výčapy-Opatovce",
+  "zalozenie": null,
+  "zaciatky": "1929 – 1930",
+  "_zaciatky": "web obce (Šport – Začiatky futbalu): začiatky futbalu v obci sa datujú do rokov 1929 – 1930; presný rok založenia klubu zdroj neuvádza",
+  "farby": "červená a žltá",
+  "_farby": "erb klubu (Sportnet): červeno-žlté pruhy",
+  "erbAlt": "Erb Združenia FC Výčapy-Opatovce: futbalová lopta na červeno-žltých zvislých pruhoch v čiernom kruhu s nápisom",
+  "adresa": ["951 44 Výčapy-Opatovce"],
+  "_adresa": "Sportnet (obec a PSČ ihriska); sídlo združenia je podľa webu obce Výčapy-Opatovce 121",
+  "kontakt": { "email": "jholubek@pobox.sk" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/zdruzenie-fc-vycapy-opatovce/",
+  "obecWeb": "https://www.vycapy-opatovce.sk/",
+  "obecKlub": "https://www.vycapy-opatovce.sk/sport-1.html",
+  "stadion": {
+    "_zdroj": "Sportnet (poloha); web obce, Šport: história futbalu (monografia 1999) a projekty klubu s dotáciou NSK 2024 – 2026",
+    "nazov": "Futbalové ihrisko Výčapy-Opatovce",
+    "geo": [48.4138408, 18.0808166],
+    "fakty": [
+      { "k": "1929 – 1930", "t": "Ihrisko pre prvé zápasy vzniklo na pôde, ktorú uvoľnili rodičia študentov." },
+      { "k": "1950 – 1960", "t": "Nové ihrisko, prvé súťažné zápasy a prvýkrát siete na bránkach." },
+      { "k": "1964", "t": "Pri ihrisku postavili obliekareň." },
+      { "k": "2024 – 2026", "t": "Dvadsať nových lavičiek okolo ihriska, obnovená divácka tribúna a nové vybavenie šatní pre mládež a hostí, s dotáciami Nitrianskeho kraja." }
+    ]
+  },
+  "kronika": {
+    "_zdroj": "web obce Výčapy-Opatovce, Šport: Začiatky futbalu vo Výčapoch – Opatovciach (zdroj: Kolektív autorov, Výčapy – Opatovce, 1999)",
+    "zoznam": [
+      { "rok": "1929 – 1930", "text": "Futbal do obce prinášajú študenti z okolitých miest. Medzi zakladajúcimi členmi sú Anton Tóth, Gustáv Tóth, Václav Kuna, František Mikuš, Štefan Magáth a Štefan Rendek. Prvé zápasy so susednými obcami sleduje 10 až 20 divákov." },
+      { "rok": "1940", "text": "Historický zápas s bratislavským Törekvésom na Turici končí 1:1. Hostia priniesli futbalovú výstroj a pieseň „Majme sa radi, chlapci…“, ktorú si spolu zaspievali, sa na roky stala hymnou spievanou po každom zápase." },
+      { "rok": "1950 – 1960", "text": "Z priateľských zápasov sa prechádza na súťaž okresnej futbalovej sekcie: registrovaní hráči, delegovaní rozhodcovia, tabuľky. V roku 1960 prichádza prvý platený tréner, pán Mišenka z Topoľčian." },
+      { "rok": "1964/65", "text": "Omladené mužstvo hrajúceho trénera Františka Hrnčára sa prvýkrát prebojuje do majstrovstiev okresu. Hrá pod hlavičkou Družstevník." },
+      { "rok": "1990/91", "text": "Pod trénerom Jozefom Rajtarom postupujú Výčapy do krajskej I. triedy po výhre 2:1 nad Zbehmi v rozhodujúcom zápase. Monografia z roku 1999 to nazýva najväčším víťazstvom v histórii oddielu." },
+      { "rok": "1991 – 1999", "text": "Deväť ročníkov v krajskej súťaži bez boja o záchranu. Pod trénerom Števom Candrákom chýbal k ďalšiemu postupu jediný bod." }
+    ]
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2014/15", "liga": "I. trieda ObFZ Nitra", "poz": 10, "z": 16, "skore": "56:60", "body": 43 },
+      { "rok": "2015/16", "liga": "VI. liga ObFZ Nitra", "poz": 3, "z": 16, "skore": "57:58", "body": 50 },
+      { "rok": "2016/17", "liga": "VI. liga ObFZ Nitra", "poz": 4, "z": 16, "skore": "70:62", "body": 50 },
+      { "rok": "2017/18", "liga": "V. liga Stred", "poz": 13, "z": 14, "skore": "25:100", "body": 4 },
+      { "rok": "2018/19", "liga": "VI. liga ObFZ Nitra", "poz": 5, "z": 16, "skore": "57:55", "body": 46 },
+      { "rok": "2019/20", "liga": "VI. liga ObFZ Nitra", "poz": 13, "z": 16, "skore": "32:42", "body": 13, "pozn": "15 zápasov" },
+      { "rok": "2020/21", "liga": "VI. liga ObFZ Nitra", "poz": 8, "z": 16, "skore": "15:13", "body": 15, "pozn": "10 zápasov" },
+      { "rok": "2021/22", "liga": "VI. liga ObFZ Nitra", "poz": 13, "z": 16, "skore": "46:99", "body": 28 },
+      { "rok": "2022/23", "liga": "VII. liga ObFZ Nitra", "poz": 9, "z": 16, "skore": "57:59", "body": 44 },
+      { "rok": "2023/24", "liga": "VII. liga ObFZ Nitra", "poz": 2, "z": 16, "skore": "77:43", "body": 64 },
+      { "rok": "2024/25", "liga": "VII. liga ObFZ Nitra", "poz": 5, "z": 16, "skore": "93:42", "body": 62 },
+      { "rok": "2025/26", "liga": "VII. liga ObFZ Nitra", "poz": 1, "z": 16, "skore": "93:40", "body": 70, "titul": true, "pozn": "22 výhier, 4 remízy, 4 prehry" }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2025/26", "text": "víťaz VII. ligy ObFZ Nitra, 93 gólov, postup do VI. ligy Stred" },
+    { "rok": "2015/16, 2016/17", "text": "starší žiaci U15 víťazi IV. ligy ObFZ Nitra, skupina B" },
+    { "rok": "2014/15", "text": "starší dorast U19 víťaz I. triedy, skupina A, skóre 142:22" },
+    { "rok": "1990/91", "text": "postup do krajskej I. triedy" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Výčapy-Opatovce (História obce)",
+    "fakty": [
+      { "k": "1239", "t": "Prvá písomná správa o Výčapoch a nepriamo aj o Opatovciach." },
+      { "k": "Bronz", "t": "Kataster osídlila nitrianska kultúra v staršej dobe bronzovej (2000 – 1450 pred Kr.), patrí medzi najvýznamnejšie starobronzové lokality juhozápadného Slovenska." },
+      { "k": "1884", "t": "Dve samostatné obce Výčapy a Opatovce sa spojili 9. septembra 1884." },
+      { "k": "Rodáčka", "t": "Vo Výčapoch-Opatovciach sa narodila prozaička Katarína Lazarová (1914 – 1995)." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "Slovnaft Cup": "Slovnaft Cup",
+    "VI. liga Stred  Macron | yoursport  ZsFZ": "VI. liga Stred",
+    "IV. liga Macron| yoursport MŽ U13 ObFZ Nitra": "IV. liga mladších žiakov U13",
+    "III. liga Macron| yoursport Prípravka U11 ObFZ Nitra": "III. liga prípraviek U11",
+    "III. liga Macron| yoursport Prípravka U09 ObFZ Nitra": "III. liga prípraviek U9",
+    "III. liga Macron| yoursport Prípravka U07 ObFZ Nitra": "III. liga prípraviek U7"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "\"Združenie FC Výčapy - Opatovce\"": "FC Výčapy-Opatovce",
+    "\"Združenie FC Výčapy - Opatovce\" B": "FC Výčapy-Opatovce B",
+    "Futbalový klub FC 31 Jarok": "FC 31 Jarok",
+    "FK DYNAMO Trnovec nad Váhom": "FK Dynamo Trnovec nad Váhom",
+    "OBECNÝ ŠPORTOVÝ KLUB KOLÍŇANY": "OŠK Kolíňany",
+    "TJ Družstevník Vráble - Horný Ohaj": "TJ Družstevník Vráble-Horný Ohaj",
+    "LATUS": "Latus",
+    "LATUS B": "Latus B",
+    "BFC - OÚ Dolné Obdokovce": "BFC Dolné Obdokovce",
+    "Obecný športový klub Lehota": "OŠK Lehota",
+    "TJ AC NOVAN Nová Ves nad Žitavou": "TJ AC Novan Nová Ves nad Žitavou",
+    "FC ViOn Zlaté Moravce - Vráble C": "FC ViOn Zlaté Moravce-Vráble C",
+    "FC ViOn Zlaté Moravce - Vráble D": "FC ViOn Zlaté Moravce-Vráble D",
+    "Futbalový klub KFC HORNÁ KRÁĽOVÁ": "KFC Horná Kráľová",
+    "Futbalový klub FK Babindol": "FK Babindol"
+  }
+}
