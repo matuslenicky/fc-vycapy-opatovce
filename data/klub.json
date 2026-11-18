@@ -8,9 +8,9 @@
   "zalozenie": null,
   "zaciatky": "1929 – 1930",
   "_zaciatky": "web obce (Šport – Začiatky futbalu): začiatky futbalu v obci sa datujú do rokov 1929 – 1930; presný rok založenia klubu zdroj neuvádza",
-  "farby": "červená a žltá",
-  "_farby": "erb klubu (Sportnet): červeno-žlté pruhy",
-  "erbAlt": "Erb Združenia FC Výčapy-Opatovce: futbalová lopta na červeno-žltých zvislých pruhoch v čiernom kruhu s nápisom",
+  "farby": "červená a oranžová",
+  "_farby": "erb klubu (Sportnet): červené a oranžové pruhy (farby navzorkované z erbu)",
+  "erbAlt": "Erb Združenia FC Výčapy-Opatovce: futbalová lopta na červeno-oranžových zvislých pruhoch, okolo biely prstenec s nápisom",
   "adresa": ["951 44 Výčapy-Opatovce"],
   "_adresa": "Sportnet (obec a PSČ ihriska); sídlo združenia je podľa webu obce Výčapy-Opatovce 121",
   "kontakt": { "email": "jholubek@pobox.sk" },
@@ -32,8 +32,8 @@
   "kronika": {
     "_zdroj": "web obce Výčapy-Opatovce, Šport: Začiatky futbalu vo Výčapoch – Opatovciach (zdroj: Kolektív autorov, Výčapy – Opatovce, 1999)",
     "zoznam": [
-      { "rok": "1929 – 1930", "text": "Futbal do obce prinášajú študenti z okolitých miest. Medzi zakladajúcimi členmi sú Anton Tóth, Gustáv Tóth, Václav Kuna, František Mikuš, Štefan Magáth a Štefan Rendek. Prvé zápasy so susednými obcami sleduje 10 až 20 divákov." },
-      { "rok": "1940", "text": "Historický zápas s bratislavským Törekvésom na Turici končí 1:1. Hostia priniesli futbalovú výstroj a pieseň „Majme sa radi, chlapci…“, ktorú si spolu zaspievali, sa na roky stala hymnou spievanou po každom zápase." },
+      { "rok": "1929 – 1930", "text": "Futbal do obce prinášajú domáci študenti, ktorí študovali v okolitých mestách. Medzi zakladajúcimi členmi sú Anton Tóth, Gustáv Tóth, Václav Kuna, František Mikuš, Štefan Magáth a Štefan Rendek. Prvé zápasy so susednými obcami sleduje 10 až 20 divákov." },
+      { "rok": "1940", "text": "Historický zápas s bratislavským Törekvésom na Turici končí 1:1. Hostia priniesli futbalovú výstroj a pieseň „Majme sa radi, chlapci…“. Spolu si ju zaspievali a na niekoľko rokov sa stala hymnou spievanou po každom zápase." },
       { "rok": "1950 – 1960", "text": "Z priateľských zápasov sa prechádza na súťaž okresnej futbalovej sekcie: registrovaní hráči, delegovaní rozhodcovia, tabuľky. V roku 1960 prichádza prvý platený tréner, pán Mišenka z Topoľčian." },
       { "rok": "1964/65", "text": "Omladené mužstvo hrajúceho trénera Františka Hrnčára sa prvýkrát prebojuje do majstrovstiev okresu. Hrá pod hlavičkou Družstevník." },
       { "rok": "1990/91", "text": "Pod trénerom Jozefom Rajtarom postupujú Výčapy do krajskej I. triedy po výhre 2:1 nad Zbehmi v rozhodujúcom zápase. Monografia z roku 1999 to nazýva najväčším víťazstvom v histórii oddielu." },
@@ -67,7 +67,7 @@
     "_zdroj": "web obce Výčapy-Opatovce (História obce)",
     "fakty": [
       { "k": "1239", "t": "Prvá písomná správa o Výčapoch a nepriamo aj o Opatovciach." },
-      { "k": "Bronz", "t": "Kataster osídlila nitrianska kultúra v staršej dobe bronzovej (2000 – 1450 pred Kr.), patrí medzi najvýznamnejšie starobronzové lokality juhozápadného Slovenska." },
+      { "k": "Bronz", "t": "Najintenzívnejšie bol kataster osídlený nitrianskou kultúrou v staršej dobe bronzovej (2000 – 1450 pred Kr.), patrí medzi najvýznamnejšie starobronzové lokality juhozápadného Slovenska." },
       { "k": "1884", "t": "Dve samostatné obce Výčapy a Opatovce sa spojili 9. septembra 1884." },
       { "k": "Rodáčka", "t": "Vo Výčapoch-Opatovciach sa narodila prozaička Katarína Lazarová (1914 – 1995)." }
     ]

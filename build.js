@@ -274,7 +274,7 @@ function card(m, R, { big = false, label = '', self = false } = {}) {
   if (m.score && m.detail && !self) links.push(`<a class="mc-a" href="${R}${m.url}">Priebeh a zostavy${I.arrow}</a>`);
   if (!m.past && !self) links.push(`<a class="mc-a" href="${R}kalendar/zapas-${m.id}.ics" download>${I.cal}Do kalendára</a>`);
   return `<article class="mc${big ? ' mc--big' : ''}">
-  <p class="mc-top"><span class="mc-label">${esc(lbl)}</span><span>${esc(m.teamObj.short)} · ${esc(m.comp)}${m.roundName ? `, ${esc(m.roundName)}` : ''}</span></p>
+  <p class="mc-top"><span class="mc-label">${esc(lbl)}</span>${self ? '' : `<span>${esc(m.teamObj.short)} · ${esc(m.comp)}${m.roundName ? `, ${esc(m.roundName)}` : ''}</span>`}</p>
   <div class="mc-row">${side(h, 'domáci')}<p class="mc-mid${m.score ? ` mc-mid--${m.res}` : ''}">${mid}</p>${side(a, 'hostia')}</div>
   <p class="mc-when"><time datetime="${m.date}">${dLong(m.date)}</time>${m.time && !m.past ? ` · ${esc(m.time)}` : ''}${m.venue ? ` · ${glueAbbr(esc(venueName(m.venue)))}` : ''}${m.score ? ` · ${RES[m.res].toLowerCase()}` : ''}</p>
   ${!m.past ? `<p class="mc-cd"><span class="cd" data-kickoff="${isoLocal(m.date, m.time)}" hidden></span></p>` : ''}
@@ -490,7 +490,7 @@ add('404/', {
 
 const SKIN = {
   nav: 'bar', theme: '#b8232b', brand: 'FC Výčapy-Opatovce', brandSub: 'futbal od rokov 1929 – 1930',
-  fonts: ['bodoni-moda-400i.woff', 'schibsted-grotesk-400.woff', 'schibsted-grotesk-600.woff'],
+  fonts: ['bodoni-moda-700.woff', 'bodoni-moda-400i.woff', 'schibsted-grotesk-400.woff', 'schibsted-grotesk-600.woff'],
   sources: 'História futbalu podľa monografie obce (1999) na webe obce Výčapy-Opatovce.',
   adminHero: 'Majme sa radi, chlapci',
   adminFacts: club.kronika.zoznam.map((x) => ({ k: x.rok, t: x.text })),
@@ -525,7 +525,7 @@ add('', {
     return `<section class="vo-hero"><div class="wrap vo-hero-in">
   <h1 class="vo-h1">FC Výčapy-Opatovce</h1>
   <p class="vo-q">„Majme sa radi, chlapci…“</p>
-  <p class="vo-cap">Pieseň, ktorú si futbalisti v roku 1940 zaspievali s hosťami z bratislavského Törekvésu, sa potom roky spievala po každom zápase.</p>
+  <p class="vo-cap">Pieseň, ktorú si futbalisti v roku 1940 zaspievali s hosťami z bratislavského Törekvésu, sa potom niekoľko rokov spievala po každom zápase.</p>
 </div></section>
 ${n ? `<section class="vo-next" aria-labelledby="n-h"><div class="wrap vo-next-in">
   <h2 class="vo-next-k" id="n-h">Najbližší zápas áčka</h2>
@@ -552,7 +552,7 @@ add('klub/', {
   title: 'Klub', active: 'klub/', desc: `${club.nazov}: futbal od rokov ${club.zaciatky}, zápas s Törekvésom 1940, postup do krajskej súťaže 1990/91, ročníky áčka, ihrisko a obec.`,
   body: (R) => `${pageHead({ title: 'Klub', sub: `${esc(club.pravnyNazov)}, futbal v obci od rokov ${club.zaciatky}. Farby z erbu: ${esc(club.farby)}.`, R, crumbs: [[null, 'Klub']] })}
 <section class="sec sec--first"><div class="wrap cols2">
-  <div><h2 class="h2">Sedemdesiat rokov futbalu</h2>${facts(club.kronika.zoznam.map((x) => ({ k: x.rok, t: x.text })))}</div>
+  <div><h2 class="h2">Prvých sedemdesiat rokov</h2>${facts(club.kronika.zoznam.map((x) => ({ k: x.rok, t: x.text })))}</div>
   <div><h2 class="h2">Ročníky áčka</h2>${seasonsTable(club.rocniky.zoznam)}
     <h2 class="h2 h2--gap">Úspechy</h2>${facts(club.uspechy.map((u) => ({ k: u.rok, t: u.text })))}</div>
 </div></section>
