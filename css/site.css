@@ -217,6 +217,15 @@ a:hover .teams-s { text-decoration: underline; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; } }
 /* ===== koniec základu, nasleduje skin.css webu ===== */
 
+/* tímy na úzkom displeji: poradie pod súťažou, stredný stĺpec sa nestlačí na nulu */
+@media (max-width: 459.98px) {
+  .teams { grid-template-columns: max-content minmax(0, 1fr); }
+  .teams a { grid-template-areas: 'n s' 'n l' 'n p'; row-gap: 2px; }
+  .teams-p { white-space: normal; }
+}
+/* meno klubu v hlavičke pri 320 px nesmie zájsť pod tlačidlo Menu */
+@media (max-width: 379.98px) { .hdr .brand-n { white-space: normal; line-height: 1.1; } .hdr .brand-s { display: none; } }
+
 /* FC Výčapy-Opatovce – „Pás kariet“. Biela, teplá sivá, červená z erbu, žltá len v detailoch. */
 :root {
   --bg: #fff; --paper: #fff; --ink: #1d1a17; --muted: #625c55; --line: #e7e2dc;
