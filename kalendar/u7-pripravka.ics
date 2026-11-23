@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6aa256791a65ab42b04aa51c@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260912T090000
 DURATION:PT2H
 SUMMARY:U7: FK Mojmírovce – FC Výčapy-Opatovce U7 1:4
@@ -33,7 +33,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aa256b11a65ab42b04b13a2@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260912T090000
 DURATION:PT2H
 SUMMARY:U7: FC Cabaj-Čápor – FC Výčapy-Opatovce U7 7:2
@@ -42,7 +42,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aa256e91a65ab42b04b81d6@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260912T090000
 DURATION:PT2H
 SUMMARY:U7: TJ Družstevník Rišňovce – FC Výčapy-Opatovce U7 6:0
@@ -51,7 +51,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ab4e09e1a65ab42b0be56f9@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260926T090000
 DURATION:PT2H
 SUMMARY:U7: FC Výčapy-Opatovce U7 – TJ Štart Nitrianske Hrnčiarovce 
@@ -61,7 +61,7 @@ LOCATION:Výčapy - Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ab4e0d71a65ab42b0beaf86@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260926T090000
 DURATION:PT2H
 SUMMARY:U7: FC Výčapy-Opatovce U7 – TJ Družstevník Rišňovce 0:4
@@ -70,7 +70,7 @@ LOCATION:Výčapy - Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ab4e1011a65ab42b0befaab@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20260926T090000
 DURATION:PT2H
 SUMMARY:U7: FC Výčapy-Opatovce U7 – MFK Pohranice 0:7
@@ -79,7 +79,7 @@ LOCATION:Výčapy - Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ac73c470cf502fda700554e@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20261010T090000
 DURATION:PT2H
 SUMMARY:U7: ŠK Slovan Neverice – FC Výčapy-Opatovce U7 3:0
@@ -88,7 +88,7 @@ LOCATION:TJ Štart Nitrianske Hrnčiarovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ac73c700cf502fda700936e@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20261010T090000
 DURATION:PT2H
 SUMMARY:U7: FK Mojmírovce – FC Výčapy-Opatovce U7 1:1
@@ -97,7 +97,7 @@ LOCATION:TJ Štart Nitrianske Hrnčiarovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ac73c970cf502fda700d2ec@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261122T112234Z
+DTSTAMP:20261123T123612Z
 DTSTART;TZID=Europe/Bratislava:20261010T090000
 DURATION:PT2H
 SUMMARY:U7: TJ Štart Nitrianske Hrnčiarovce – FC Výčapy-Opatovce U7 
