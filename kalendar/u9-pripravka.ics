@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a9935413edec7237c7db891@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260905T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – TJ Nové Sady 1:3
@@ -33,7 +33,7 @@ LOCATION:Štadión Výčapy Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a9935433edec7237c7dc095@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260905T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – ŠK Nitra-Dolné Krškany 0:9
@@ -42,7 +42,7 @@ LOCATION:Štadión Výčapy Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a9935443edec7237c7dc23b@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260905T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – TJ Družstevník Šurianky 1:1
@@ -51,7 +51,7 @@ LOCATION:Štadión Výčapy Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a9935473edec7237c7dcc39@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260905T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – TJ Družstevník Rišňovce 1:2
@@ -60,7 +60,7 @@ LOCATION:Štadión Výčapy Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aabaa461a65ab42b080d695@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260919T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – TJ Družstevník Vráble-Horný Oh
@@ -70,7 +70,7 @@ LOCATION:Futbalový štadión OFK Branč
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aabab671a65ab42b082c55a@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260919T090000
 DURATION:PT2H
 SUMMARY:U9: FC Neded – FC Výčapy-Opatovce U9 0:1
@@ -79,7 +79,7 @@ LOCATION:Futbalový štadión OFK Branč
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aabac1b1a65ab42b083e8d7@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260919T090000
 DURATION:PT2H
 SUMMARY:U9: FC Veľký Kýr – FC Výčapy-Opatovce U9 12:0
@@ -88,7 +88,7 @@ LOCATION:Futbalový štadión OFK Branč
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6aabad161a65ab42b085be0d@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20260919T090000
 DURATION:PT2H
 SUMMARY:U9: FK Nitra B – FC Výčapy-Opatovce U9 3:0
@@ -97,7 +97,7 @@ LOCATION:Futbalový štadión OFK Branč
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6abe0c6eead18e4ef0269ac9@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261003T090000
 DURATION:PT2H
 SUMMARY:U9: FK Mojmírovce – FC Výčapy-Opatovce U9 12:0
@@ -106,7 +106,7 @@ LOCATION:Mojmírovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6abe0d0fead18e4ef027af3f@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261003T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – ŠK Veľké Zálužie 0:12
@@ -115,7 +115,7 @@ LOCATION:Mojmírovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6abe0dd4ead18e4ef028d844@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261003T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – BFC Dolné Obdokovce 0:6
@@ -124,7 +124,7 @@ LOCATION:Mojmírovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad0a9550cf502fda782a2b9@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261017T090000
 DURATION:PT2H
 SUMMARY:U9: TJ Slovan Čeľadice – FC Výčapy-Opatovce U9 6:0
@@ -133,7 +133,7 @@ LOCATION:TJ Družstevník Ivanka pri Nitre
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad0a9670cf502fda782bd9d@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261017T090000
 DURATION:PT2H
 SUMMARY:U9: ŠK Junior Ivanka pri Nitre – FC Výčapy-Opatovce U9 9:1
@@ -142,7 +142,7 @@ LOCATION:TJ Družstevník Ivanka pri Nitre
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad0a9740cf502fda782d38c@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20261017T090000
 DURATION:PT2H
 SUMMARY:U9: OFK Sľažany – FC Výčapy-Opatovce U9 1:0
@@ -151,7 +151,7 @@ LOCATION:TJ Družstevník Ivanka pri Nitre
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad90ad53d2c18f185f6afa3@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20270320T090000
 DURATION:PT2H
 SUMMARY:U9: ŠK Hájske – FC Výčapy-Opatovce U9
@@ -159,7 +159,7 @@ DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad90ad83d2c18f185f6b8ab@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20270320T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – FK Mojmírovce
@@ -167,7 +167,7 @@ DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad90adb3d2c18f185f6c8c6@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20270320T090000
 DURATION:PT2H
 SUMMARY:U9: ŠK Magnus (futbal) – FC Výčapy-Opatovce U9
@@ -175,7 +175,7 @@ DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6ad90ae03d2c18f185f6d319@zdruzenie-fc-vycapy-opatovce.sportnet
-DTSTAMP:20261127T121704Z
+DTSTAMP:20261128T114308Z
 DTSTART;TZID=Europe/Bratislava:20270320T090000
 DURATION:PT2H
 SUMMARY:U9: FC Výčapy-Opatovce U9 – FC Čechynce
